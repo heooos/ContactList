@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="dia_Name">姓名：</string>
+    <string name="dia_Number">电话：</string>
+    <string name="btn_Add">添加</string>
+    <string name="call">打电话</string>
+    <string name="message">发短信</string>
+    <string name="add_label">添加联系人</string>
+    <string name="btn_submit">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="choose_label">请选择</string>
+</resources>

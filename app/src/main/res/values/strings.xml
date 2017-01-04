@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">ContactList</string>
+<string name="dia_Name">Name:</string>
+<string name="dia_Number">Number:</string>
+<string name="btn_Add">Add</string>
+<string name="call">Speed dial</string>
+<string name="message">Send massage</string>
+<string name="add_label">Add Contacts</string>
+<string name="btn_submit">submit</string>
+<string name="btn_cancel">cancel</string>
+<string name="choose_label">Please Choose</string>
+</resources>
